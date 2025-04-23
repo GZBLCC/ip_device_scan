@@ -1,1 +1,3 @@
 # ip_device_scan
+获取当前局域网段ip和公网ip
+扫描当前局域网下所有设备的ip和mac地址，并判断是否为pc
